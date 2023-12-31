@@ -1,4 +1,6 @@
-## Project Overview
+## Project Overview (Unsupervised Learning)
+
+In this challenge, I will use my kneowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 The project workflow includes the following major steps:
 
